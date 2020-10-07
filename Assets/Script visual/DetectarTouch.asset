@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: DetectarTouch
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"DetectarTouch","summary":"Tomar
+      posicion y cambiar el tag si esta tocado","pan":{"x":31.4594,"y":36.49619},"zoom":0.7999998,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-350.0,"y":-35.0},"guid":"fbf29209-a7b2-4daf-83a6-5d3be67d33f1","$version":"A","$type":"Bolt.Update","$id":"9"},{"chainable":false,"member":{"name":"onClick","parameterTypes":null,"targetType":"UnityEngine.UI.Button","targetTypeName":"UnityEngine.UI.Button","$version":"A"},"defaultValues":{"target":null},"position":{"x":66.0,"y":-80.0},"guid":"2a5f0499-c9cd-45c5-9a62-118ec8c16dcd","$version":"A","$type":"Bolt.SetMember","$id":"11"},{"chainable":false,"member":{"name":"tag","parameterTypes":null,"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"Activator","$type":"System.String"}},"position":{"x":266.0,"y":-58.0},"guid":"d4b6a610-059b-47cc-9c1a-037305bac946","$version":"A","$type":"Bolt.SetMember","$id":"14"},{"chainable":false,"member":{"name":"tag","parameterTypes":null,"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"Default","$type":"System.String"}},"position":{"x":-153.0,"y":-46.0},"guid":"ec3b7570-d674-4f5d-b376-771a0416140c","$version":"A","$type":"Bolt.SetMember","$id":"17"},{"sourceUnit":{"$ref":"11"},"sourceKey":"assigned","destinationUnit":{"$ref":"14"},"destinationKey":"assign","guid":"1d0469d6-5939-47b3-a687-751d12e77c64","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"17"},"destinationKey":"assign","guid":"4350604d-50e9-4e35-85ae-0728cecc6078","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"assigned","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"b3ca4237-93e0-4f41-9483-d8c2b359c28d","$type":"Bolt.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []

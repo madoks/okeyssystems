@@ -1,0 +1,903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"GetDirectories(string path)\tstring[]"
+			],
+			[
+				"Garment",
+				"Garment()\tGarment()"
+			],
+			[
+				"Ac",
+				"Acc2\tfloat"
+			],
+			[
+				"nu",
+				"nuevaPosicion\tVector3"
+			],
+			[
+				"Pa",
+				"PlayerGame\tPlayerGame"
+			],
+			[
+				"im",
+				"img_gr"
+			],
+			[
+				"ima",
+				"Image"
+			],
+			[
+				"te",
+				"tesserocr"
+			],
+			[
+				"i",
+				"img_rgb"
+			],
+			[
+				"texto",
+				"texto_image"
+			],
+			[
+				"S",
+				"Spider12"
+			],
+			[
+				"cr",
+				"crawlerProcess"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"parse",
+				"parse_nota"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"no",
+				"nota_promocionado"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"art",
+				"artist_id"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"alb",
+				"albums_artist_list"
+			],
+			[
+				"a",
+				"albums_artist"
+			],
+			[
+				"p",
+				"params_album"
+			],
+			[
+				"ep",
+				"ep_albums_artist"
+			],
+			[
+				"cli",
+				"client_secret"
+			],
+			[
+				"get",
+				"get_token"
+			],
+			[
+				"c",
+				"client_secret"
+			],
+			[
+				"cl",
+				"client_id"
+			],
+			[
+				"url_",
+				"url_base"
+			],
+			[
+				"se",
+				"search_params"
+			],
+			[
+				"u",
+				"url_search"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"id",
+				"id_lj"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"fli",
+				"flight"
+			],
+			[
+				"get_d",
+				"get_data_scala"
+			],
+			[
+				"di",
+				"dict_tarifa"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"in",
+				"inf_scalas"
+			],
+			[
+				"du",
+				"duracion"
+			],
+			[
+				"mo",
+				"model_plane"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"time",
+				"time_wait"
+			],
+			[
+				"tim",
+				"time_segments_flight"
+			],
+			[
+				"d",
+				"duration"
+			],
+			[
+				"ge",
+				"get_driver"
+			],
+			[
+				"f",
+				"flight"
+			],
+			[
+				"ta",
+				"tarifa_flight_price"
+			],
+			[
+				"tar",
+				"tarifa_flight_name"
+			],
+			[
+				"fi",
+				"find_element_by_xpath"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"fin",
+				"find_element_by_xpath"
+			],
+			[
+				"sege",
+				"segment_flight"
+			],
+			[
+				"s",
+				"segments_flight"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"l",
+				"location_start"
+			],
+			[
+				"bon",
+				"boton_escalas"
+			],
+			[
+				"flig",
+				"flight"
+			],
+			[
+				"la",
+				"latam_soup"
+			],
+			[
+				"B",
+				"BeautifulSoup"
+			],
+			[
+				"r",
+				"requests"
+			],
+			[
+				"ar",
+				"articles_seccion"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"ex",
+				"extract_data"
+			],
+			[
+				"article_",
+				"article_content_parser"
+			],
+			[
+				"arti",
+				"article_content"
+			],
+			[
+				"fea",
+				"featured_article_link"
+			],
+			[
+				"fe",
+				"featured_article"
+			],
+			[
+				"li",
+				"links_secciones"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"n",
+				"n_tokens_body"
+			],
+			[
+				"de",
+				"declarative_base"
+			],
+			[
+				"n_",
+				"n_tokens_title"
+			],
+			[
+				"col",
+				"column_name"
+			],
+			[
+				"co",
+				"column_name"
+			],
+			[
+				"to",
+				"tokenize_column"
+			],
+			[
+				"va",
+				"valid_word_list"
+			],
+			[
+				"word",
+				"word_list"
+			],
+			[
+				"st",
+				"stop_words"
+			],
+			[
+				"sr",
+				"stripped_body"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"ha",
+				"hash_object"
+			],
+			[
+				"mi",
+				"missing_titles"
+			],
+			[
+				"ne",
+				"newspaper_uid"
+			],
+			[
+				"N",
+				"newspaper_uid"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"url",
+				"urlparse"
+			],
+			[
+				"el",
+				"el_universal"
+			],
+			[
+				"e",
+				"el_universal"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"ho",
+				"homepage"
+			],
+			[
+				"wr",
+				"writerow"
+			],
+			[
+				"csv",
+				"csv_headers"
+			],
+			[
+				"o",
+				"out_file_name"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"is",
+				"is_root_path"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"logg",
+				"logger"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"new",
+				"news_site"
+			],
+			[
+				"an",
+				"animeflv"
+			],
+			[
+				"gr",
+				"grupos"
+			],
+			[
+				"ve",
+				"vectores"
+			],
+			[
+				"v",
+				"vector2"
+			],
+			[
+				"dis",
+				"distancia"
+			],
+			[
+				"prob",
+				"prob_cancer_dado_sintoma"
+			],
+			[
+				"prob_",
+				"prob_sintoma"
+			],
+			[
+				"pro",
+				"prob_cancer"
+			],
+			[
+				"prob_sintoma",
+				"prob_sintomas_dado_cancer"
+			],
+			[
+				"por",
+				"prob_B_dado_A"
+			],
+			[
+				"es",
+				"estadistica"
+			],
+			[
+				"est",
+				"estimar_pi"
+			],
+			[
+				"med",
+				"media_estimados"
+			],
+			[
+				"num",
+				"numero_agujas"
+			],
+			[
+				"nume",
+				"numero_de_intentosn"
+			],
+			[
+				"me",
+				"media_estimados"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"ma",
+				"mano"
+			],
+			[
+				"ti",
+				"tiros_con_1"
+			],
+			[
+				"ds",
+				"distancias_medias_por_caminata"
+			],
+			[
+				"pas",
+				"pasos"
+			],
+			[
+				"coo",
+				"coodenada_actual"
+			],
+			[
+				"delta",
+				"delta_x"
+			],
+			[
+				"fibonacci",
+				"fibonacci_dinamico"
+			],
+			[
+				"pes",
+				"pesos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/SalvarDatos.cs",
+			"settings":
+			{
+				"buffer_size": 2648,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/proyectosJava/platzi-marker/src/main/resources/application-dev.properties",
+		"/C/proyectosJava/platzi-marker/src/main/resources/application.properties",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts/DragNDrop.cs",
+		"/C/Program Files/NetBeans 8.2/etc/netbeans.conf",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts/Detect.cs",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts/PersonajeTest.cs",
+		"/C/xampp/xampp-control.ini",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Morales/Unity/MenuYDemo/Assets/Scripts/PersonajeTest.cs",
+		"/C/Users/Familia",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts/MenuPausa.cs",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Morales/Unity/MenuYDemo/Assets/Movement.cs",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts/MainMenu.cs",
+		"/C/Users/Familia Morales/AppData/LocalLow/DefaultCompany/MenuYDemo/salvarDatos.json",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Assets/Scripts/settingGame.cs",
+		"/C/Users/Familia Morales/Unity/MenuYDemo/Morales/Unity/MenuYDemo/Assets/Scripts/SalvarDatos.cs",
+		"/C/Users/Familia Morales/AppData/Roaming/Sublime Text 3/Packages/User/ejecutarcsharp.sublime-build",
+		"/D/Unity_HUB/MenuYDemo/Assets/Imagenes.meta",
+		"/D/Unity_HUB/MenuYDemo/menuYDemo.sublime-project",
+		"/C/Users/Familia Morales/Python/sellenium/scrapy.py",
+		"/C/Users/Familia Morales/Python/sellenium/spotify_scraping.py",
+		"/C/Users/Familia Morales/Python/sellenium/latam.py",
+		"/C/Users/Familia Morales/Python/pagina12/descargar_pagina.py",
+		"/C/Users/Familia Morales/Python/pagina12/latam.py",
+		"/C/Users/Familia Morales/Python/datos/prueba_rara.py",
+		"/C/Users/Familia Morales/Proyectos netbeans/SistemaPOS/Mysql/POS.sql",
+		"/C/xampp/htdocs/siad/DB SIAD.sql",
+		"/C/Users/Familia Morales/Python/bases_datos/article.py",
+		"/C/Users/Familia Morales/Python/bases_datos/main.py",
+		"/C/Users/Familia Morales/Python/datos/article.py",
+		"/C/Users/Familia Morales/Python/datos/base.py",
+		"/C/Users/Familia Morales/Python/automatizar_recetas/visualizar_datos.py",
+		"/C/Users/Familia Morales/Python/datos/leer_csv_pandas.py",
+		"/C/Users/Familia Morales/Python/datos/main.py",
+		"/C/Users/Familia Morales/Python/automatizar_recetas/newspaper_receipe.py",
+		"/C/Users/Familia Morales/Python/datos/config.yaml",
+		"/C/Users/Familia Morales/Python/datos/common.py",
+		"/C/Users/Familia Morales/Python/datos/news_page_objects.py",
+		"/C/Users/Familia Morales/Python/datos/eluniversal_2020_08_02_articles.csv",
+		"/C/Users/Familia Morales/Python/datos/eluniversal_2020_08_01_articles.csv",
+		"/C/Users/Familia Morales/Python/datos/links_anime.py",
+		"/C/Users/Familia Morales/Python/agrupamiento/jerarquico.py",
+		"/C/Users/Familia Morales/Python/agrupamiento/jerarquico_compa.py",
+		"/C/Users/Familia Morales/Python/estadistica/sintomas.py",
+		"/C/Users/Familia Morales/Python/estadistica/calculo-pi/calculo_pi.py",
+		"/C/Users/Familia Morales/Python/estadistica/baraja/barajas.py",
+		"/C/Users/Familia Morales/Python/estadistica/estadisticas.py",
+		"/C/Users/Familia Morales/Python/simulacion de probabilidad/probabilidades.py",
+		"/C/Users/Familia Morales/Python/graficado/borracho.py",
+		"/C/Users/Familia Morales/Python/graficado/camino_aleatorio.py",
+		"/C/Users/Familia Morales/Python/conceptos/coordenada.py",
+		"/C/Users/Familia Morales/Python/conceptos/camino_aleatorio.py",
+		"/C/Users/Familia Morales/Python/conceptos/campo.py",
+		"/C/Users/Familia Morales/Python/conceptos/borracho.py",
+		"/C/Users/Familia Morales/Python/graficado/programacion_dinamica.py",
+		"/C/Users/Familia Morales/Python/graficado/morral.py",
+		"/C/Users/Familia Morales/Python/graficado/graficado_simple.py",
+		"/C/Users/Familia Morales/Python/conceptos/cajaCristal.py",
+		"/C/Users/Familia Morales/Python/conceptos/poo.py",
+		"/C/Users/Familia Morales/Python/conceptos/excepciones.py",
+		"/C/Users/Familia Morales/Python/conceptos/busquedaBinaria.py",
+		"/C/Users/Familia Morales/Python/conceptos/aproximacion.py",
+		"/C/Users/Familia Morales/Python/conceptos/enumeracion.py",
+		"/C/Users/Familia Morales/Python/Ajedrez/fichas.py",
+		"/C/Users/Familia Morales/Python/conceptos/listas.py",
+		"/C/Users/Familia Morales/Python/Ajedrez/jugador.py",
+		"/C/Users/Familia Morales/Python/Ajedrez/tablero.py",
+		"/C/Users/Familia Morales/Python/Ajedrez/index.py",
+		"/C/Users/Familia Morales/Python/conceptos/tuplas.py",
+		"/C/Users/Familia Morales/Python/conceptos/diccionario.py",
+		"/C/Users/Familia Morales/Python/Machine learning/plot.py",
+		"/C/Users/Familia Morales/Python/conceptos/entrada.py",
+		"/C/Users/Familia Morales/Python/conceptos/variables.py",
+		"/D/Descargas/Juego-Simon-Dice-master/Juego-Simon-Dice-master/script.js",
+		"/D/Descargas/Juego-Simon-Dice-master/Juego-Simon-Dice-master/JuegoSimonDice.html",
+		"/D/Escritorio/Ejercico/interactividadJuego.js",
+		"/D/Escritorio/Ejercico/estilos.css",
+		"/C/Users/Familia Morales/vozReconocedor/android/build.gradle",
+		"/C/Users/Familia Morales/vozReconocedor/App.js",
+		"/C/Users/Familia Morales/vozReconocedor/android/app/src/main/java/com/vozreconocedor/MainApplication.java",
+		"/C/Users/Familia Morales/vozReconocedor/android/app/build.gradle",
+		"/C/Users/Familia Morales/vozReconocedor/android/settings.gradle",
+		"/C/Users/Familia Morales/proyecto1/blogspot.html",
+		"/C/AppServers/glassfish-5.0.1/glassfish5/glassfish/modules/console-common.jar",
+		"/C/Users/Familia Morales/eclipse-workspace/HolaMundoEJB/target/HolaMundoEJB-0.0.1.jar",
+		"/C/Users/Familia Morales/.ssh/id_rsa.pub",
+		"/C/Users/Familia Morales/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/isintec/isintec/app/User.php",
+		"/C/xampp/htdocs/isintec/isintec/config/app.php",
+		"/C/xampp/htdocs/isintec/public/assets/js/dispositivos/cuentasCliente.js",
+		"/C/xampp/htdocs/isintec/isintec/resources/views/dispositivos/dispositivosCuentasClientes.blade.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/DispositivoCuentaController.php",
+		"/C/xampp/htdocs/isintec/isintec/resources/views/dispositivos/dispositivosPlantilla.blade.php",
+		"/C/xampp/htdocs/isintec/public/assets/css/dispositivos/perfil.css",
+		"/C/xampp/htdocs/isintec/isintec/routes/web.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/DispositivoController.php",
+		"/C/xampp/htdocs/isintec/isintec/resources/views/dispositivos/dispositivosPerfil.blade.php",
+		"/C/xampp/htdocs/isintec/isintec/resources/views/dispositivos/dispositivosCuentasAdmin.blade.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Contracts/Session/Session.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/isintec/public/assets/css/dispositivos/dispositivos.css",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/isintec/isintec/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Auth/AuthenticationException.php",
+		"/C/xampp/htdocs/isintec/isintec/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/C/xampp/htdocs/isintec/isintec/resources/views/paginaPrincipal/plantilla.blade.php",
+		"/C/xampp/htdocs/isintec/public/assets/js/dispositivos/dispositivos.js",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/LoginController.php",
+		"/C/xampp/htdocs/isintec/isintec/storage/framework/sessions/xAy2cuONlCdc7ceF93eqkR46NcBIiTmQZid7YOqq",
+		"/C/xampp/htdocs/isintec/isintec/resources/views/login/login.blade.php",
+		"/C/xampp/htdocs/isintec/isintec/database/factories/UserFactory.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Mail/MensajeUsuario.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/EmailController.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Mail/Mensaje.php",
+		"/C/xampp/htdocs/isintec/isintec/storage/logs/laravel.log",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/ContactoController.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/ServicioController.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/QuienController.php",
+		"/C/xampp/htdocs/isintec/isintec/app/Http/Controllers/InicioController.php",
+		"/C/xampp/htdocs/isintec/isintec/.env",
+		"/C/xampp/htdocs/isintecsas/isintec/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/SalvarDatos.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								956,
+								956
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1004,1005": "Demasiados caracteres en literal de carácter",
+								"960,968": "Error de sintaxis, se esperaba '('",
+								"980,981": "Se esperaba )"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 558.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 150.0
+	},
+	"output.variable_get":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/User/ejecutarcsharp.sublime-build",
+	"project": "menuYDemo.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"isintec\\app\\Http\\Controllers\\DispositivoController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

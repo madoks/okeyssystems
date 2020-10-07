@@ -1,0 +1,8 @@
+hola por ultimo os dejo las uv como os dije solo faltaria colocar las texturas y montarla 
+
+una casa os dejo el prollecto no se si abrira asique si no se habre abisarme i intento hacerlo de otra forma 
+teneis tanbien el modelo en fbx
+y una ultima cosa cuando enpezeis a montar las uves y proyectarlo en el modelo mirar si se ve vien la imagen en el modelo aveces pasa que no se ve bien cuando pones y aparece
+trozos en negro si pasa eso se tendria que hacer las uv de esas parte del modelo otra vez de forma distinta . no suele pasar pero pasa .
+
+suerte y ya nos veremos . animo 
